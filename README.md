@@ -1,9 +1,9 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel 
 
 Software Engineer focused on **.NET (ASP.NET Core), Flutter, and SQL**.  
 Experience building **real-world backend and mobile applications** with clean architecture and scalable data models.
 
-## 🚀 Featured Projects
+## Featured Projects
 - **AeroRide** — Aviation charter reservation platform  
   *Backend: .NET 8 + PostgreSQL | Mobile: Flutter*
 - **ACEDEMA** — Academic management system  
@@ -11,7 +11,7 @@ Experience building **real-world backend and mobile applications** with clean ar
 - **App Peluquería** — Appointment booking web application  
   *PHP + Database*
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Primary**
 - C#, .NET 8, ASP.NET Core
@@ -24,6 +24,6 @@ Experience building **real-world backend and mobile applications** with clean ar
 - Azure
 - Git & GitHub
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-chavarria-37103a359/
 - Email: danielcoto2004@gmail.com
