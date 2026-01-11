@@ -26,4 +26,4 @@ Experience building **real-world backend and mobile applications** with clean ar
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-chavarria-37103a359/
-- Email: danielcoto2004@gmail.com
+- Email: daniel.chavarria.se@gmail.com
