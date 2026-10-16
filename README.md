@@ -5,7 +5,7 @@ Experience building **real-world backend and mobile applications** with clean ar
 
 ## Featured Projects
 - **AeroRide** — Aviation charter reservation platform  
-  *Backend: .NET 8 + PostgreSQL | Mobile: Flutter*
+  *Backend: .NET 10 + PostgreSQL | Mobile: Flutter*
 - **ACEDEMA** — Academic management system  
   *.NET 8 + SQL Server*
 - **App Peluquería** — Appointment booking web application  
